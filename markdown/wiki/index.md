@@ -1,3 +1,4 @@
+t
 
 # Welcome to the PojavLauncher Wiki!
 ____
